@@ -1,3 +1,5 @@
 module.exports = {
-  preset: "@vue/cli-plugin-unit-jest"
-};
+  preset: '@vue/cli-plugin-unit-jest',
+  automock: false,
+  setupFiles: ['./setupJest.js']
+}

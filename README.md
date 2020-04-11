@@ -1,29 +1,8 @@
-# poco-composition-vue
+# Prove of Concept Vue + Composition API
 
-## Project setup
-```
-yarn install
-```
+https://eliamartani.github.io/poco-vue-composition-api
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## TODO List
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[ ] Learn how to better test components
+[ ] Fix unit testing
