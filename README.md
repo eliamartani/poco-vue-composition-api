@@ -4,5 +4,5 @@ https://eliamartani.github.io/poco-vue-composition-api
 
 ## TODO List
 
-[ ] Learn how to better test components
-[ ] Fix unit testing
+- [ ] Learn how to better test components
+- [ ] Fix unit testing
